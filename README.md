@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongola&show_icons=true&theme=great-gatsby)
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongola&layout=compact&theme=great_gatsby)</div>
+
 
