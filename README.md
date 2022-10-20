@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![99ED52365D517AB505](https://user-images.githubusercontent.com/105200175/196917951-f49fa80e-a87b-49f4-8224-bfd3d6651f6a.gif)
+<img src="![99ED52365D517AB505](https://user-images.githubusercontent.com/105200175/196917951-f49fa80e-a87b-49f4-8224-bfd3d6651f6a.gif)" width=100%>
   
 </div>
 
